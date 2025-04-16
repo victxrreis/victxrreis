@@ -2,7 +2,7 @@
 
 <p>
   Olá, me chamo Victor, sou um estudande de Engenharia de Software. </br>
-  Atualmente atuo como Desenvolvedor FullStack e Freelancer.
+  Atuo como Desenvolvedor FullStack e Freelancer.
 </p>
 
 <div> 
