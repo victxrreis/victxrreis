@@ -1,7 +1,7 @@
 <h2 align="left">Sobre mim</h2>
 
 <p>
-  Olá, me chamo Victor, sou um estudande de Engenharia de Software. </br>
+  Olá, me chamo Victor, sou um estudante de Engenharia de Software. </br>
   Atuo como Desenvolvedor FullStack e Freelancer.
 </p>
 
